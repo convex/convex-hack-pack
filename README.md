@@ -47,12 +47,12 @@ includes:
 - Download a local copy of this repository from Github using `git`:
 
   ```
-  git clone https://github.com/get-convex/convex-hack-pack.git
+  git clone https://github.com/convex/convex-hack-pack.git
   ```
 
   (Note: if you prefer, you can also clone the repo with the
   [Github CLI](https://cli.github.com/) or
-  [download a ZIP file](https://github.com/get-convex/convex-hack-pack/archive/refs/heads/main.zip)
+  [download a ZIP file](https://github.com/convex/convex-hack-pack/archive/refs/heads/main.zip)
   of the contents)
 
 - Install the project dependencies:
@@ -302,7 +302,7 @@ in our [React client](https://docs.convex.dev/client/react). There are also
 [ReactNative](https://docs.convex.dev/client/react-native), and
 [Node](https://docs.convex.dev/client/javascript) clients, as well as a
 straightforward
-[HTTP API](https://github.com/get-convex/convex-js/blob/main/src/browser/http_client.ts#L40).
+[HTTP API](https://github.com/convex/convex-js/blob/main/src/browser/http_client.ts#L40).
 
 The database supports
 [NoSQL-style documents](https://docs.convex.dev/database/document-storage) with
